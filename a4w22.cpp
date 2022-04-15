@@ -14,7 +14,7 @@
 
 #define NRES_TYPES 10
 #define NJOBS 25
-#define MAX_LEN 32
+#define MAX_LEN 200
 using namespace std;
 
 /*
